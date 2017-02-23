@@ -1,0 +1,3 @@
+Prolog-Problems Repo Readme
+
+This repo is just a collective of random prolog problems that I solved...
